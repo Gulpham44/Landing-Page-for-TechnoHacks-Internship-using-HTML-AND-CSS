@@ -1,1 +1,1 @@
-# Landing-Page-for-TechnoHacks-Internship-using-HTML-AND-CSS
+# Landing-Page-for-TechnoHacks-Internship-using-HTML,CSS AND JAVASCRIPT
